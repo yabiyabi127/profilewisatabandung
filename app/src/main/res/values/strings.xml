@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wisata Bandung</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="double_click_exit">tekan sekali lagi untuk keluar</string>
+    <string name="about">Aplikasi Wisata Bandung merupakan aplikasi tentang tempat wisata yang ada wilayang Bandung, Jawa Barat.
+Aplikasi Wisata Bandung akan menampilkan daftar tempat wisata yang ada di wilayah Bandung, lalu menampilkan penjelasan tempat wisata dan bisa menuju ke tempatnya menggunakan maps yang sudah tersedia pada Aplikasi.
+Tujuan aplikasi ini untuk memudahkan dalam mencari referensi tempat wisata, khususnya yang ada di wilayah Bandung.</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin posuere condimentum nisi, eget suscipit ex vulputate vel. Phasellus tellus neque, ultrices non lobortis vel, lobortis ut sem. Curabitur sagittis libero id nulla suscipit, id gravida ligula imperdiet. Nam et lorem tellus. Cras bibendum lorem elit, id ornare risus hendrerit vel. In ut mi vel lectus blandit fringilla. Fusce ante arcu, tristique porta risus quis, tincidunt pellentesque massa. Phasellus egestas at dolor vitae commodo. Duis pretium odio vitae turpis faucibus, sed pretium ex ullamcorper. Donec rhoncus dapibus consectetur. Maecenas massa nunc, sagittis eget interdum ac, tempor a nisl. Aenean semper eros id leo consectetur, sit amet tempus mauris vulputate.</string>
+</resources>

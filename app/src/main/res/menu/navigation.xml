@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/wisata"
+        android:icon="@drawable/ic_baseline_card_travel_24"
+        android:title="Wisata" />
+
+    <item
+        android:id="@+id/tentang"
+        android:icon="@drawable/ic_baseline_description_24"
+        android:title="Tentang" />
+
+</menu>
