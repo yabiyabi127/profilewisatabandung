@@ -9,7 +9,7 @@
     <item
         android:id="@+id/wisata"
         android:icon="@drawable/ic_baseline_card_travel_24"
-        android:title="Wisata" />
+        android:title="Daftar Wisata" />
 
     <item
         android:id="@+id/tentang"
