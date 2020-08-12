@@ -1,5 +1,5 @@
 package salam.aplikasi.wisatabandung.model;
-
+//Nim :10117269 Nama :Harikurniawan kelas : IF-8
 public class Destination {
     private String name;
     private String location;

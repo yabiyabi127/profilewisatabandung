@@ -19,7 +19,7 @@ import java.util.List;
 import salam.aplikasi.wisatabandung.R;
 import salam.aplikasi.wisatabandung.activity.DestinationDetailActivity;
 import salam.aplikasi.wisatabandung.model.Destination;
-
+//Nim :10117269 Nama :Harikurniawan kelas : IF-8
 public class DestinationAdapter extends RecyclerView.Adapter<DestinationAdapter.ViewHolder> {
     private Context context;
     private List<Destination> destinationList;

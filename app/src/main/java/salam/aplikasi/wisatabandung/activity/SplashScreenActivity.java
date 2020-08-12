@@ -10,7 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import salam.aplikasi.wisatabandung.R;
 
 public class SplashScreenActivity extends AppCompatActivity {
-
+    //Nim :10117269 Nama :Harikurniawan kelas : IF-8
     Activity activity;
 
     @Override

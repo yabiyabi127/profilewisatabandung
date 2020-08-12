@@ -31,7 +31,7 @@ import salam.aplikasi.wisatabandung.fragment.PersonFragment;
 import salam.aplikasi.wisatabandung.fragment.DestinationFragment;
 
 public class MainActivity extends AppCompatActivity {
-
+    //Nim :10117269 Nama :Harikurniawan kelas : IF-8
     private Activity activity;
     private boolean doubleBackToExitPressedOnce = false;
     private TextView mTitleHeader;
@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+//Nim :10117269 Nama :Harikurniawan kelas : IF-8
         activity = this;
 
         if (checkAndRequestPermissions()) {
@@ -88,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-
+        //Nim :10117269 Nama :Harikurniawan kelas : IF-8
         if (doubleBackToExitPressedOnce) {
             super.onBackPressed();
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {

@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import salam.aplikasi.wisatabandung.R;
 
 public class AboutFragment extends Fragment {
-
+    //Nim :10117269 Nama :Harikurniawan kelas : IF-8
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {

@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import salam.aplikasi.wisatabandung.R;
-
+//Nim :10117269 Nama :Harikurniawan kelas : IF-8
 public class PersonFragment extends Fragment {
 
     @Override

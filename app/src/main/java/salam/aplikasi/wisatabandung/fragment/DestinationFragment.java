@@ -23,7 +23,7 @@ import salam.aplikasi.wisatabandung.adapter.DestinationAdapter;
 import salam.aplikasi.wisatabandung.model.Destination;
 
 public class DestinationFragment extends Fragment {
-
+    //Nim :10117269 Nama :Harikurniawan kelas : IF-8
     ArrayList<Destination> Contacts;
     private RecyclerView recyclerView;
     private DestinationAdapter destinationAdapter;
