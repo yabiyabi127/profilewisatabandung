@@ -14,15 +14,15 @@
         android:layout_height="wrap_content">
 
         <TextView
-            android:layout_gravity="center"
-            android:padding="14dp"
-            android:textColor="@android:color/black"
-            android:justificationMode="inter_word"
-            android:visibility="visible"
-            android:textSize="18sp"
-            android:text="@string/about"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="311dp"
+            android:layout_gravity="center"
+            android:justificationMode="inter_word"
+            android:padding="14dp"
+            android:text="@string/about"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            android:visibility="visible" />
 
     </LinearLayout>
 </LinearLayout>

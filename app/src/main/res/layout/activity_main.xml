@@ -10,22 +10,23 @@
         android:id="@+id/navigation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
         android:layout_marginStart="0dp"
         android:layout_marginEnd="0dp"
         android:background="?android:attr/windowBackground"
-        android:layout_alignParentBottom="true"
-        app:labelVisibilityMode="labeled"
         app:itemIconTint="@color/bnv_tab_item_foreground"
         app:itemTextColor="@color/bnv_tab_item_foreground"
+        app:labelVisibilityMode="labeled"
         app:menu="@menu/navigation" />
 
     <FrameLayout
         android:id="@+id/frame_container"
-        android:layout_above="@id/navigation"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="674dp"
+        android:layout_above="@id/navigation"
+        android:layout_marginBottom="1dp"
+        android:visibility="visible"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
-        app:layout_constraintBottom_toTopOf="@id/navigation"
-        android:visibility="visible"/>
+        app:layout_constraintBottom_toTopOf="@id/navigation" />
 
 </RelativeLayout>

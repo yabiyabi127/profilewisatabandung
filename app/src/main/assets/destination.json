@@ -1,3 +1,4 @@
+
 {
   "destination": [
     {
@@ -71,6 +72,46 @@
       "image": "https://fourstar-holiday.com/wp-content/uploads/2018/10/page-33.jpg",
       "latitude" : "-7.1382",
       "longitude" : "107.3922"
+    },
+    {
+      "name": "Situ ciseupan",
+      "location": "Cibeber, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat 40531",
+      "description": "Dengan luas tidak lebih dari 5 Ha, kamu bisa menikmati keindahan danau eksotis dengan lingkunga yang asri dan sejuk di Situ Ciseupan.Di kawasan ini terdapat tempat pemancingan terluas di Cimahi, jadi kamu bisa menyalurkan hobby memancingmu di sini. Selain memancing, kamu juga bisa mencoba kegiatan lainnya yang tak kalah asik yaitu outbound, bersepeda, off road, flying fox, naik perahu dan kegiata seru lainnya.\n",
+      "image": "https://nyero.id/wp-content/uploads/2018/01/Wisata-Hits-Situ-Ciseupan-Cimahi.jpg",
+      "latitude" : "-6.894835",
+      "longitude" : "107.5126174"
+    },
+    {
+      "name": "The Historich Cimahi",
+      "location": "Jl. Gatot Subroto No.19, Baros, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40521",
+      "description": "Kamu bisa menikmati wisata sejarah yang unik dengan mengunjungi The Historich. Sebuah bangunan peninggalan Belanda yang dibangun pada tahun 1886 dengan gaya arsitektur Eropa yang khas.Jika sebelumnya bangunan ini difungsikan sebagai tempat hiburan bagi kaum sosialita zaman kolonial, saat ini The Historich difungsikan sebagai gedung kesenian.",
+      "image": "https://nyero.id/wp-content/uploads/2018/01/Wisata-Hits-The-Historich-Cimahi.jpg",
+      "latitude" : "-6.8861801",
+      "longitude" : "107.5353366"
+    },
+    {
+      "name": "Kolam Renang Brigif Cimahi",
+      "location": "Kolam Renang Pajarpanorama dan Kolam Renang Brigif, Baros, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40522",
+      "description": "Lokasi : Lingkar, Baros, Cimahi Tengah, Kota Cimahi, Jawa Barat\nTiket Masuk : Rp 15.000 (Dewasa), Rp 10.000 (Anak-Anak), Rp 6.000 (Tentara)\nJam Buka : 08.00-17.45\nFasilitas : toilet, kamar mandi bilas, kantin\nKolam Renang Brigif Cimahi merupakan kolam renang yang biasa digunakan oleh para tentara yang ada di daerah Cimahi, namun tak jaran gbanyak juga pengunjung yang memang bukan tentara juga menikmati kolam renang ini.\n\nKolam ini sangat cocok untuk anda para mommy yang ingin berlibur bersama anak-anaknya dikala akhir perkan tiba.",
+      "image": "https://www.hargatiket.net/wp-content/uploads/2019/03/Kolam-Renang-Brigif-Cimahi.jpg",
+      "latitude" : "-6.8922011",
+      "longitude" : "107.5283422"
+    },
+    {
+      "name": "Pandiga Educreation Sport",
+      "location": "Baros, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40523",
+      "description": "Lokasi : Jalan Sirnarasa No. 11, Cihanjuang, Cimahi Utara, Cibabat, Cimahi Utara, Kota Cimahi, Jawa Barat\nTiket Masuk : Rp 25.000 (Weekday), Rp 30.000 (Weekend)\nJam Buka : 08.00-20.00 (Senin-Sabtu), 08.00-21.00 (Minggu)\nFasilitas : waterpark, tempat gathering, reuni dan meeting, outbound, kolam renang, paintball,\nPandiga Educreation Sport ini hadir sebagai salah satu solusi berwisata yang menawarkan anda kebugaran dan kesehatan dengan menggabungkan antara olah raga dengan wisata edukasi, yang pas untuk kebutuhan rekreasi keluarga, peruasahaan atau rombongan.\n\nPandiga Educreation Sport memberikan kesan asri nan khas alam pedesaan dengan background pegunungan. Selain itu berwisata kuliner dengan menyantap beberapa menu yang dihidangkan oleh Hanjuang Cafe & Resto.\n\nTak hanya itu, disana juga terdapat wahana beramain dia areal terbukayang konsepnya adalah kawasan wisata terpadu, sehingga anda tidak perlu lagi membuang-buang waktu berharga anda untuk berpindah-pindah lokasi wisata.\n\nMenariknya lagi design bangunanya yang ciamik, seperti lobi yang berdinding kaca, sehingga pengunjung bisa melihat salah satu keasrian miniatur taman di Bandung.\n\nSuasananya yang disuguhkan di tempat ini benar-benara akan membuat anda merasa betah untuk singgah berlama-lama disini.",
+      "image": "https://www.hargatiket.net/wp-content/uploads/2019/03/Pandiga-Educreation-Sport.jpg",
+      "latitude" : "-6.8840816",
+      "longitude" : "107.5391152"
+    },
+    {
+      "name": "Giggle Box Cimahi",
+      "location": "Jl. Gatot Subroto No.11, Karangmekar, Kec. Cimahi Tengah, Kota Cimahi, Jawa Barat 40521",
+      "description": "Lokasi : Jl. Gatot Subroto No.11, Karangmekar, Cimahi Tengah, Kota Cimahi, Jawa Barat\nTiket Masuk : –\nJam Buka : 10.00-22.00\nSiapa sih yang ngga tau Giggle Box Cimahi? Pastinya orang Cimahi udah sering denger sola restaurant yang satu ini.\n\nGiggle Box Cimahi merupakan sebuah restaurant hits yang berada di kota Cimahi. Di restaurant ini beragam menu pilihan tersedia dan siap untuk menggoayang perut dan lidah anda. Tak heran, tmepat ini menjadi lokasi favorit bagi para remaja untuk sekedar nongkrong atau pun membunuh waktu di tempat yang satu ini.",
+      "image": "https://www.hargatiket.net/wp-content/uploads/2019/03/Giggle-Box-Cimahi.jpg",
+      "latitude" : "-6.8767811",
+      "longitude" : "107.5435736"
     }
   ]
 }
